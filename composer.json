@@ -1,0 +1,14 @@
+{
+    "name": "kirillreutski/polygon-stocks-api",
+    "autoload": {
+        "psr-4": {
+            "kirillreutski\\PolygonStocksApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kirillreutski"
+        }
+    ],
+    "require": {}
+}
